@@ -37,7 +37,7 @@ To run the magic square solver, clone this repository and execute the main Pytho
    ```bash
    python magic_square.py
 
-By default, the code runs the **Selection Hyper-Heuristic** (`SRHH`). To switch to **Hill Climbing**, comment/uncomment the appropriate line in the `__main__` section of the code.
+By default, the code runs the **Selection Hyper-Heuristic** (`SRHH`). To switch to **Hill Climbing**, comment/uncomment the appropriate lines in the `__main__` section of the code.
 
 ### Example
 
