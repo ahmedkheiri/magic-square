@@ -1,8 +1,8 @@
-# Magic Square Solver Using Hyper-Heuristics and Hill Climbing
+# Magic Square Solver Using Hyper-Heuristic and Hill Climbing
 
-This repository contains Python code for solving the magic square problem using two optimisation techniques: **Selection Hyper-Heuristics** and **Hill Climbing**. The code implements both approaches and allows users to experiment with the solution methods.
+This repository contains Python code for solving the magic square problem using two optimisation techniques: **Selection Hyper-Heuristic** and **Hill Climbing**. The code implements both approaches and allows users to experiment with the solution methods.
 
-The main focus is on **Selection Hyper-Heuristics** based on the tutorial from:
+The main focus is on **Selection Hyper-Heuristic** based on the tutorial from:
 > **Ahmed Kheiri and Ed Keedwell (2022)**, *Selection Hyper-Heuristics*. In Proceedings of the Genetic and Evolutionary Computation Conference Companion, GECCO '22, pages 983-996, New York, NY, USA. ACM.  
 > [http://dx.doi.org/10.1145/3520304.3533655](http://dx.doi.org/10.1145/3520304.3533655)
 
